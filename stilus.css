@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(241, 205, 158);
+    background-color: rgb(179, 218, 243)
 }
 
 #tarolo{
-    background-color: rgb(117, 28, 28);
-    color: rgb(248, 203, 148);
+    background-color: rgb(12, 4, 85);
+    color: rgb(59, 181, 238);
     width: 80%;/* iwdth mindig szászalék ! */
     max-width: 800px;
     margin: auto;/* a tárolo a böngézsö ettől lesz kozep */
@@ -12,14 +12,14 @@ body{
 }
 #menu a{
     text-decoration: none;
-    color: darkgoldenrod;
-    background-color: lightgreen;
-    border: 2px solid greenyellow;
+    color: rgb(23, 252, 240);
+    background-color: rgb(238, 241, 34);
+    border: 2px solid rgb(206, 52, 25);
     padding: 5px 10px 5px 10px;
     margin: 10px;
     border-radius: 5px;
 }
 #menu a:hover{
-    color: rgb(235, 235, 46);
-    background-color: rgb(233, 89, 37);
+    color: rgb(6, 221, 16);
+    background-color: rgb(177, 3, 3);
 }
