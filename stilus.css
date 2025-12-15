@@ -14,12 +14,18 @@ body{
     text-decoration: none;
     color: rgb(23, 252, 240);
     background-color: rgb(238, 241, 34);
-    border: 2px solid rgb(206, 52, 25);
+    border: 2px solid rgb(182, 243, 132);
     padding: 5px 10px 5px 10px;
     margin: 10px;
     border-radius: 5px;
 }
 #menu a:hover{
-    color: rgb(6, 221, 16);
-    background-color: rgb(177, 3, 3);
+    color: rgb(55, 125, 255);
+    background-color: rgb(252, 242, 100);
+}
+ol{
+    color: rgb(38, 176, 240);
+}
+li{
+    color: rgb(40, 151, 202);
 }
