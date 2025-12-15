@@ -29,3 +29,7 @@ ol{
 li{
     color: rgb(40, 151, 202);
 }
+p{
+    margin: 10px;
+   margin-bottom: auto;
+}
