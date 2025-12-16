@@ -28,8 +28,33 @@ ol{
 }
 li{
     color: rgb(40, 151, 202);
+    font-size: 23px;
 }
 p{
     margin: 10px;
    margin-bottom: auto;
+   text-align: justify; 
+   font-size: larger;
+   font-family: 'Times New Roman', Times, serif;
+}
+#k1 {
+    max-width: 250px;
+    margin: auto;
+    width: 70%;
+}
+#p3{
+     margin: 10px;
+   margin-bottom: auto;
+   text-align: justify; 
+
+}
+#k3{
+    max-width: 250px;
+    margin: auto;
+    width: 70%;
+}
+#k2{
+    max-width:220px;
+    margin: auto;
+    width: 70%;
 }
